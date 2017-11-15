@@ -1,1 +1,6 @@
 ;  Enter your initialization code here
+Calculate #S1 as "Foo"
+Calculate #S2 as "Bar"
+
+
+Calculate #S3 as "Baz"
